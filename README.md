@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Superdiamant7
-- 🇫🇷  I come from France 🥖
-- 👀 I’m interested in the game development
-- 🌱 I’m currently learning C# with Unity
+- 🇫🇷  I'm from France 🥖
+- 👀 I’m interested in the development
+- 🌱 I’m currently learning python and web
 - 👨‍🎓 I wish to be developper later
 
